@@ -1,3 +1,4 @@
+#Credits: TrainwithSubham (source code)
 # K8s Kind Voting App
 
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
@@ -55,6 +56,14 @@ Achieved seamless scaling and high availability, supporting 99.9% uptime for cri
 This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 
-### Aapke DevOps Wale Bhaiya
-### [TrainWithShubham](https://www.trainwithshubham.com/)
+###SUCCESSFULLY COMPLTED PROJECT
+![image](https://github.com/user-attachments/assets/daa65a04-0910-47f5-b9f5-0f92aed810fc)
+
+![image](https://github.com/user-attachments/assets/e77183ae-d1d5-4ddb-a06b-53da87a89791)
+
+###RESULT
+![image](https://github.com/user-attachments/assets/6227ca02-2c9a-4522-b9b3-fed35f0d4809)
+
+
+
 
